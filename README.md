@@ -1,4 +1,4 @@
-# Learn Python by Projects 🐍
+# Learn Python by Projects 
 
 Welcome to my Python learning journey! This repository is a collection of **simple to intermediate Python projects** created to reinforce my understanding of Python concepts.
 
